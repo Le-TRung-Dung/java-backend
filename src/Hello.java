@@ -1,0 +1,1 @@
+void main() {String name = IO.readln("Tên bạn là gì? "); IO.println("chem gio"); IO.println("chem gió ác luôn"); IO.println("2026"); }
